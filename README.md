@@ -41,22 +41,18 @@ Each plot includes labeled axes, titles, and customized themes to improve readab
 **How to Use
 To run this project locally:
 
-## Clone the repository:
+** Clone the repository:
 (git clone https://github.com/pallavi544/Seaborn-project-1.git)
 
 Install dependencies:
 
-bash
-Copy
-Edit
-pip install seaborn matplotlib jupyter
+(pip install seaborn matplotlib jupyter)
+
 Launch the notebook:
 
-bash
-Copy
-Edit
-jupyter notebook "seaborn project 1.ipynb"
-🔗 View Online
-You can view the full notebook without downloading anything:
+(jupyter notebook "seaborn project 1.ipynb")
 
-📘 View notebook in your browser
+:
+### 🔗 View the Matplotlib Project Notebook
+
+📘 **[Click here to view the Jupyter Notebook online](https://github.com/pallavi544/Seaborn-project-1/blob/main/seaborn%20project%201.ipynb)
