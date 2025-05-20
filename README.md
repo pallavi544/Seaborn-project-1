@@ -52,7 +52,6 @@ Launch the notebook:
 
 (jupyter notebook "seaborn project 1.ipynb")
 
-:
 ### 🔗 View the Matplotlib Project Notebook
 
 📘 **[Click here to view the Jupyter Notebook online](https://github.com/pallavi544/Seaborn-project-1/blob/main/seaborn%20project%201.ipynb)
