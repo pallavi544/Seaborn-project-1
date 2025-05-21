@@ -16,17 +16,17 @@ This project explores statistical data visualization using Seaborn, a Python lib
 
 ## Visualizations Used:
 
-Count Plot: Frequency of observations for categorical variables
+*Count Plot: Frequency of observations for categorical variables
 
-Bar Plot: Average values across categories
+*Bar Plot: Average values across categories
 
-Box Plot: Distribution and outliers in numeric variables
+*Box Plot: Distribution and outliers in numeric variables
 
-Distribution Plot (hist/kde): Understand the shape of numerical data
+*Distribution Plot (hist/kde): Understand the shape of numerical data
 
-Heatmap (if included): Correlation matrix visualization
+*Heatmap : Correlation matrix visualization
 
-Each plot includes labeled axes, titles, and customized themes to improve readability and impact.
+*Each plot includes labeled axes, titles, and customized themes to improve readability and impact.
 
 ## Tools & Libraries:
 
