@@ -1,8 +1,8 @@
 # Seaborn-project-1
-**About the Project
+## About the Project
 This project explores statistical data visualization using Seaborn, a Python library built on top of Matplotlib. The notebook demonstrates how Seaborn simplifies the creation of attractive and informative graphics for data analysis. Through hands-on examples, it visualizes categorical and numerical data, allowing for pattern recognition and comparison.
 
-** Objective:
+## Objective:
 
 *The purpose of this project is to:
 
@@ -14,7 +14,7 @@ This project explores statistical data visualization using Seaborn, a Python lib
 
 *Interpret real-world data using statistical plots
 
-**Visualizations Used:
+## Visualizations Used:
 
 Count Plot: Frequency of observations for categorical variables
 
@@ -28,30 +28,51 @@ Heatmap (if included): Correlation matrix visualization
 
 Each plot includes labeled axes, titles, and customized themes to improve readability and impact.
 
-** Tools & Libraries:
+## Tools & Libraries:
 
-*Python	Core programming language
+*Python	: Core programming language
 
-**Seaborn	Statistical visualization
+**Seaborn	: Statistical visualization
 
-*Matplotlib	Base for rendering Seaborn plots
+*Matplotlib :	Base for rendering Seaborn plots
 
-*Jupyter Notebook	Interactive development and documentation
+*Jupyter Notebook	: Interactive development and documentation
 
-**How to Use
-To run this project locally:
 
-** Clone the repository:
-(git clone https://github.com/pallavi544/Seaborn-project-1.git)
+## How to Run locally:
 
-Install dependencies:
+1.Clone the repository:
 
-(pip install seaborn matplotlib jupyter)
+```bash
 
-Launch the notebook:
+git clone https://github.com/pallavi544/Seaborn-project-1.git
 
-(jupyter notebook "seaborn project 1.ipynb")
+```
 
-### 🔗 View the Matplotlib Project Notebook
+2.Navigate to the folder:
+
+```bash
+
+cd Seaborn-project-1
+
+```
+
+3.Install required packages (if not already installed):
+
+```bash
+
+pip install seaborn matplotlib pandas jupyter
+
+```
+
+4.Launch the notebook:
+
+```bash
+
+jupyter notebook "seaborn project 1.ipynb"
+
+```
+
+##  View the Matplotlib Project Notebook
 
 📘 **[Click here to view the Jupyter Notebook online](https://github.com/pallavi544/Seaborn-project-1/blob/main/seaborn%20project%201.ipynb)
