@@ -4,39 +4,39 @@ This project explores statistical data visualization using Seaborn, a Python lib
 
 ## Objective:
 
-*The purpose of this project is to:
+* The purpose of this project is to:
 
-*Learn and apply key Seaborn functions for plotting
+* Learn and apply key Seaborn functions for plotting
 
-*Enhance understanding of data through visual exploration
+* Enhance understanding of data through visual exploration
 
-*Use styling, color palettes, and grouping for better clarity
+* Use styling, color palettes, and grouping for better clarity
 
-*Interpret real-world data using statistical plots
+* Interpret real-world data using statistical plots
 
 ## Visualizations Used:
 
-*Count Plot: Frequency of observations for categorical variables
+* Count Plot: Frequency of observations for categorical variables
 
-*Bar Plot: Average values across categories
+* Bar Plot: Average values across categories
 
-*Box Plot: Distribution and outliers in numeric variables
+* Box Plot: Distribution and outliers in numeric variables
 
-*Distribution Plot (hist/kde): Understand the shape of numerical data
+* Distribution Plot (hist/kde): Understand the shape of numerical data
 
-*Heatmap : Correlation matrix visualization
+* Heatmap : Correlation matrix visualization
 
-*Each plot includes labeled axes, titles, and customized themes to improve readability and impact.
+* Each plot includes labeled axes, titles, and customized themes to improve readability and impact.
 
 ## Tools & Libraries:
 
-*Python	: Core programming language
+* Python	: Core programming language
 
-**Seaborn	: Statistical visualization
+* Seaborn	: Statistical visualization
 
-*Matplotlib :	Base for rendering Seaborn plots
+* Matplotlib :	Base for rendering Seaborn plots
 
-*Jupyter Notebook	: Interactive development and documentation
+* Jupyter Notebook	: Interactive development and documentation
 
 
 ## How to Run locally:
